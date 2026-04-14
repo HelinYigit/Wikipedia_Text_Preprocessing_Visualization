@@ -23,6 +23,7 @@ This project focuses on preprocessing and analyzing textual data obtained from W
 ## 📊 Dataset
 
 The dataset contains textual data extracted from Wikipedia articles.
+
    **text**: Raw Wikipedia text content  
 
 ## 🛠️ Technologies Used
