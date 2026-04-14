@@ -6,6 +6,12 @@
 
 This project focuses on preprocessing and analyzing textual data obtained from Wikipedia. The goal is to transform raw text into a clean and meaningful format and extract insights through visualization techniques.
 
+## ⚙️ Project Steps
+    1️⃣ Text Preprocessing
+    2️⃣ Text Analysis
+    3️⃣ Visualization
+    4️⃣ Modular Function
+
 ## 🎯 Objectives
 
 - Clean and normalize raw text data  
@@ -19,16 +25,14 @@ This project focuses on preprocessing and analyzing textual data obtained from W
 The dataset contains textual data extracted from Wikipedia articles.
    **text**: Raw Wikipedia text content  
 
-
 ## 🛠️ Technologies Used
 
-- Python 🐍  
+- Python 
 - Pandas  
 - NLTK  
 - TextBlob  
 - Matplotlib  
 - WordCloud  
-
 
 ## 💡 Key Insights
 
@@ -37,7 +41,4 @@ The dataset contains textual data extracted from Wikipedia articles.
 - Visualization helps identify dominant terms quickly  
 
 
-
----
-
-⭐ If you like this project, don’t forget to star the repo!
+## This project is a case study from Miuul's NLP course.
